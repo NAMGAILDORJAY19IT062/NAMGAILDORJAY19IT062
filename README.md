@@ -1,0 +1,3 @@
+- 👋 Hi, I’m NAMGAILDORJAY
+- 👀 I’m interested in web development,data analytic,codings
+- 🌱 I’m currently learning data analytic and java code
