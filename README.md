@@ -1,3 +1,3 @@
 - 👋 Hi, I’m NAMGAILDORJAY
-- 👀 I’m interested in web development,data analytic,codings
-- 🌱 I’m currently learning data analytic and java code
+- 👀 I’m interested in web development,data analytic,big data,machine learning
+- 🌱 I’m currently learning data analytic using python and mobile app development using java and dataframes code
